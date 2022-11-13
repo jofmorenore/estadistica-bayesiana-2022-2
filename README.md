@@ -14,6 +14,8 @@ Materiales del curso de **Estadística Bayesiana** ofreciendo en el Departamento
 8. Modelo jerárquico Normal con medias específicas.
 9. Modelo jerárquico Normal con medias y varianzas específicas.
 10. Introducción a los modelso de mezcla finitos.
+11. Comparación de modelos.
+12. Introducción a la regresión lineal
 
 ## Talleres
 
@@ -32,3 +34,4 @@ Materiales del curso de **Estadística Bayesiana** ofreciendo en el Departamento
 - school3.dat
 - SB11_1_muestra.txt
 - galaxy.csv
+- sst.dat
